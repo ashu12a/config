@@ -1,6 +1,6 @@
 module.exports={
     "logging":false,
-    "port":9532,
+    "port":80,
     "requestLimit":"100000000",
     "sendGridKey":"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",
     "emailSender":"IPTSE",
