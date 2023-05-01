@@ -25,7 +25,7 @@ module.exports={
     "allowedVideoTypes":"mp4",
     "jwtSecret":"44b1291f7103d822cbba8500da13cd13220b501ef333e414eb478f464374ee64",
     "webLink":"",
-    "tokenLength":256,
+    "tokenLength":250,
     "allowedFileTypes":"pdf",
     "swaggerHost":""
 }
