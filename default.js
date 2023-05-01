@@ -1,6 +1,6 @@
 module.exports={
     "logging":false,
-    "port":6701,
+    "port":3400,
     "requestLimit":"100000",
     "sendGridKey":"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",
     "emailSender":"IPTSE",
@@ -16,7 +16,7 @@ module.exports={
     "awsSES":"AKIAQEMRDC7YGIGV3MII EqeSWmXY4B2X7YwDkwaTmFEOSindVzCEiPHRHsh5",
     "isTesting":false,
     "QNVERT_URL":"",
-    "fcmKey":"weoijr9q8rh879qwhr8iwhq8",
+    "fcmKey":"AAAAJGctCLY:APA91bGZlarxr0Bf9SU3q3dLI9BkGPZWCcFxGcsSwhZrtwdae5JpIW_2Z0Y8mxiKoea0hWMzoWc9Zv5DFRrNBSSPMiT85PfqRoahUUoHPCybFvJiIkz-tT41oJgWHXQKR3S5ULOBCEgA",
     "pagination":10,
     "razorPayKey":"test",
     "razorPaySecret":"test",
