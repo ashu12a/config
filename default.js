@@ -6,7 +6,7 @@ module.exports={
     "emailSender":"IPTSE",
     "dbUri":"mongodb+srv://technologydefault:o5jneZWRz2SpdqJX@iptse.ckveaif.mongodb.net/api?retryWrites=true&w=majority",
     "awsConfig":{
-        "endpoint":"http",
+        "endpoint":"",
         "accessKeyId":"AKIAQEMRDC7YCHAFIYOZ",
         "secretAccessKey":"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",
     },
